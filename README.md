@@ -16,23 +16,17 @@ __   __ _____                    _
 # 🚀 XReader
 
 ## 🌟 Introduction
-
 🎉 **XReader** is a sleek command-line tool crafted in Go for *efficient file reading*. Perfect for quick file operations or sharpening your Go skills. Let’s make file handling a breeze!
 
----
-
 ## ✨ Features
-
 Here’s what XReader brings to the table:
 - **🚀 Read and display file contents.**
 - ⚙️ Read files line-by-line and display line numbers.
 - 🛠 Display file metadata (size, last modified time).
 - 🛠️ Support multi-file processing and content filtering.
 - 🛠 Text convert to json.
----
 
 ## 📦 Installation
-
 #### Prerequisites
 - [Go](https://go.dev/dl/) (1.21 or higher recommended).
 - [Git](https://git-scm.com/downloads) installed.
@@ -51,10 +45,8 @@ Here’s what XReader brings to the table:
    ```bash
    sudo mv XReader /usr/local/bin/
    ```
----
-
+   
 ## 🚀 Usage
-
 #### Flags
 Below are the available command-line flags:
 
@@ -76,22 +68,16 @@ Below are the available command-line flags:
    File content:
    Hello, Go!
    ```
----
-
 ## 🧪 Testing
-
 ### Run tests:
 ```bash
 go test ./internal/fileops
 ```
 
----
-
 ## 📜 License
-
 **[MIT License](https://opensource.org/licenses/MIT)**  
 A permissive open-source license allowing flexibility and freedom.
----
+
 ## 📩 Get in Touch
 Got questions or ideas?
 - **[Open an Issue](https://github.com/HanksJCTsai/XReader/issues)** – Let’s discuss it!
