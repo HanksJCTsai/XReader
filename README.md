@@ -14,11 +14,15 @@ __   __ _____                    _
 </div>
 
 # 🚀 XReader
+
 ## 🌟 Introduction
+
 🎉 **XReader** is a sleek command-line tool crafted in Go for *efficient file reading*. Perfect for quick file operations or sharpening your Go skills. Let’s make file handling a breeze!
 
 ---
+
 ## ✨ Features
+
 Here’s what XReader brings to the table:
 - **🚀 Read and display file contents.**
 - ⚙️ Read files line-by-line and display line numbers.
@@ -26,7 +30,9 @@ Here’s what XReader brings to the table:
 - 🛠️ Support multi-file processing and content filtering.
 - 🛠 Text convert to json.
 ---
+
 ## 📦 Installation
+
 #### Prerequisites
 - [Go](https://go.dev/dl/) (1.21 or higher recommended).
 - [Git](https://git-scm.com/downloads) installed.
@@ -46,7 +52,9 @@ Here’s what XReader brings to the table:
    sudo mv XReader /usr/local/bin/
    ```
 ---
+
 ## 🚀 Usage
+
 #### Flags
 Below are the available command-line flags:
 
@@ -69,13 +77,18 @@ Below are the available command-line flags:
    Hello, Go!
    ```
 ---
+
 ## 🧪 Testing
+
 ### Run tests:
 ```bash
 go test ./internal/fileops
 ```
+
 ---
+
 ## 📜 License
+
 **[MIT License](https://opensource.org/licenses/MIT)**  
 A permissive open-source license allowing flexibility and freedom.
 ---
@@ -84,4 +97,4 @@ Got questions or ideas?
 - **[Open an Issue](https://github.com/HanksJCTsai/XReader/issues)** – Let’s discuss it!
 - **Email**: [Hanks' Mail](mailto:u2_u2@msn.com)
 ---
-<div align="center"> <em>Last updated: February 22, 2025</em><br> <em>Built with ❤️ by Hanks Tsai</em> </div> ```
+<div align="center"> <em>Last updated: February 22, 2025</em><br> <em>Built with ❤️ by Hanks Tsai</em> </div>
