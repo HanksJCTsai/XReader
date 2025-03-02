@@ -22,7 +22,7 @@ __   __ _____                    _
 Here’s what XReader brings to the table:
 - **🚀 Read and display file contents.**
 - ⚙️ Read files line-by-line and display line numbers.
-- 🛠 Display file metadata (size, last modified time).
+- **🚀 Display file metadata (size, last modified time).**
 - 🛠️ Support multi-file processing and content filtering.
 - 🛠 Text convert to json.
 
@@ -39,7 +39,7 @@ Here’s what XReader brings to the table:
    ```
 2. **Build the tool:**
    ```bash
-   go build -o XReader ./cmd
+   ./make
    ```
 3. ***(Optional) Add to PATH:***
    ```bash
